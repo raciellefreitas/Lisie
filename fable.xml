@@ -2,7 +2,7 @@
 	<page background="images.jpg">   
         
         <agent 
-      text="Lisie é uma colecionadora de acessorios temáticos. 
+      text="Lisie é uma colecionadora de acessórios temáticos. 
             Com o natal chegando, ela precisa coletar 3 itens 
             importantes que faltam na decoração de sua casa." font-size="25" x="20" y="430" color="black" height="31"/> 
         <agent img="Stone.png" x="0" y="2" width="150" height="100"/>
