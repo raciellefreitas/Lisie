@@ -56,23 +56,25 @@
         <agent img="LPC_Sara_Preview.png" x="20" y="90" width="90" height="120"/> 
         <agent img="Tree_2.png" x="350" y="10" width="100" height="150" on-touch="_NEXT_PAGE"/>
 
-  </page>
+   </page>
   
-  <page background="images.jpg">
-       <agent text="Revele o último objeto para a decoração de Lisie." font-size="25" x="20" y="350" color="black" height="31"/> 
+   <page background="images.jpg">
+     
+        <agent text="Revele o último objeto para a decoração de Lisie." font-size="25" x="20" y="350" color="black" height="31"/> 
         <agent img="Stone.png" x="0" y="2" width="150" height="100"/>
         <agent img="LPC_Sara_Preview.png" x="20" y="90" width="90" height="120"/> 
         <agent img="Crate.png" x="350" y="10" width="100" height="150" on-touch="_NEXT_PAGE"/>
 
-      </page>
+   </page>
   
   <page background="images.jpg">
-       <agent text="Pegue a guirlanda." font-size="25" x="20" y="350" color="black" height="31"/> 
+   
+        <agent text="Pegue a guirlanda." font-size="25" x="20" y="350" color="black" height="31"/> 
         <agent img="Stone.png" x="0" y="2" width="150" height="100"/>
         <agent img="LPC_Sara_Preview.png" x="20" y="90" width="90" height="120"/> 
         <agent img="christmas-wreath-preview-x3.png" x="350" y="10" width="100" height="150" on-touch="_NEXT_PAGE"/>
 
-      </page>
+  </page>
   
   <page background="istockphoto-1285039242-640x640.jpg">
        <agent text="Missão Cumprida!!! Graças à sua ajuda, Lisie conseguiu enfeitar sua casa para o Natal." font-size="20" x="20" y="450" color="black" height="31"/> 
