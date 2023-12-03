@@ -3,7 +3,7 @@
         
         <agent 
       text="Lisie é uma colecionadora de acessorios temáticos. Com o natal chegando, ela precisa coletar 3 itens importantes que faltam, para enfeitar sua casa." x="20" y="430" color="black" front-size="22" height="31"/> 
-        <agent img="LPC_Sara_Preview.png" x="220" y="90" width="90" height="100"/>
+        <agent img="LPC_Sara_Preview.png" x="20" y="90" width="90" height="100"/>
         </agent>
     </page>
 </fable>    
