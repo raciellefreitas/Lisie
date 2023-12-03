@@ -76,7 +76,7 @@
 
    </page>
   
-   <page background="istockphoto-1285039242-640x640.jpg" soundtrack="Christmas-Eve-07-Just-Celeste-Free.mp3" > 
+   <page background="istockphoto-1285039242-640x640.jpg" soundtrack="Christmas-Eve-07-Just-Celeste-Free.mp3"> 
        
         <agent text="Missão Cumprida!!! Graças à sua ajuda, Lisie conseguiu enfeitar sua casa para o Natal." font-size="20" x="20" y="450" color="black" height="31"/> 
         <agent text="FIM" font-size="35" x="350" y="270" color="red" height="140"/>
