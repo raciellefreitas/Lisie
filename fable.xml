@@ -71,7 +71,7 @@
   
   <page background="istockphoto-1285039242-640x640.jpg">
        <agent text="Missão Cumprida!!! Graças a sua ajuda, Lisie conseguiu enfeitar sua casa." font-size="20" x="20" y="450" color="black" height="31"/> 
-       <agent text="FIM" font-size="35" x="350" y="300"  color="red"
+        <agent text="FIM" font-size="35" x="350" y="300" color="red" height="150"/>
         <agent img="House_5.png" x="0" y="2" width="300" height="400"/>
         <agent img="LPC_Sara_Preview.png" x="20" y="2" width="90" height="120"/> 
         <agent img="Tree_2.png" x="345" y="150" width="100" height="200"/>
