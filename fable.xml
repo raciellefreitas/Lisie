@@ -13,16 +13,15 @@
   
   <page background="images.jpg">
         <agent text="Ajude Lisie a coletar seus itens e realizar seus objetivos."  x="20" y="430" color="black" front-size="35" height="31"/>
-        <agent text="Clique nos objetos para revelar e coletar os itens natalinos que Lisie almeija."  x="20" y="350" color="black" front-size="35" height="31"/>
     
         <agent img="Stone.png" x="0" y="2" width="150" height="100"/>
         <agent img="LPC_Sara_Preview.png" x="20" y="90" width="90" height="120"/>
-        
+        <agent img="Sign_2.png" x="350" y="10" width="100" height="80" on-touch="_GOTO_PAGE:3"/>
         
     </agent>
     </page>
 </fable>    
-        
+       <agent text="Clique nos objetos para revelar e coletar os itens natalinos que Lisie almeija."  x="20" y="350" color="black" front-size="35" height="31"/>  
   
     
   </page>
